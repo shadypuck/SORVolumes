@@ -1,0 +1,25 @@
+\contentsline {section}{Abstract}{1}{section*.3}
+\contentsline {section}{\numberline {1}Cone Method}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Introduction}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Derivation}{3}{subsection.1.2}
+\contentsline {paragraph}{THEOREM}{3}{section*.7}
+\contentsline {paragraph}{PROOF}{3}{section*.8}
+\contentsline {subsection}{\numberline {1.3}Summary}{5}{subsection.1.3}
+\contentsline {section}{\numberline {2}Shell Method}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Introduction}{7}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Derivation}{7}{subsection.2.2}
+\contentsline {paragraph}{THEOREM}{7}{section*.20}
+\contentsline {paragraph}{PROOF}{7}{section*.21}
+\contentsline {subsection}{\numberline {2.3}Summary}{11}{subsection.2.3}
+\contentsline {section}{\numberline {3}Disk Method}{12}{section.3}
+\contentsline {subsection}{\numberline {3.1}Introduction}{12}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Derivation}{12}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}An Investigation of the Rotation of Conic Sections}{12}{subsubsection.3.2.1}
+\contentsline {paragraph}{Matrices}{12}{section*.34}
+\contentsline {paragraph}{Perpendicular}{12}{section*.35}
+\contentsline {paragraph}{Focus/Directrix}{13}{section*.36}
+\contentsline {subsubsection}{\numberline {3.2.2}Derivation}{13}{subsubsection.3.2.2}
+\contentsline {paragraph}{THEOREM}{13}{section*.37}
+\contentsline {paragraph}{PROOF}{13}{section*.38}
+\contentsline {subsection}{\numberline {3.3}Summary}{19}{subsection.3.3}
+\contentsline {section}{References}{21}{section*.59}

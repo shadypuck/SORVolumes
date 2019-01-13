@@ -1,0 +1,39 @@
+\begin{thebibliography}{1}
+
+\bibitem{BIB:cone}
+$\text{DavidK}\
+  (\textcolor{blue}{\underline{\emph{https://math.stackexchange.com/users/139123/david-k}}})$,
+  ``Simplest way to find volume of solid of revolution around given line.''
+  \emph{Mathematics Stack Exchange}.
+\newblock
+  URL:\textcolor{blue}{\underline{\emph{https://math.stackexchange.com/q/3045968}}}
+  (version: 2018-12-19). Accessed 1 Jan. 2019.
+
+\bibitem{BIB:disk2}
+\text{Shady Puck}\
+  (\textcolor{blue}{\underline{\emph{https://math.stackexchange.com/users/340652/shady-puck}}}),
+  ``Simplest way to find volume of solid of revolution around given line.''
+  \emph{Mathematics Stack Exchange}.
+\newblock
+  URL:\textcolor{blue}{\underline{\emph{https://math.stackexchange.com/q/3044474}}}
+  (version: 2018-12-17). Accessed 1 Jan. 2019.
+
+\bibitem{BIB:shell}
+$\text{CopyPasteIt}\
+  (\textcolor{blue}{\underline{\emph{https://math.stackexchange.com/users/432081/copypasteit}}})$,
+  ``Simplest way to find volume of solid of revolution around given line.''
+  \emph{Mathematics Stack Exchange}.
+\newblock
+  URL:\textcolor{blue}{\underline{\emph{https://math.stackexchange.com/q/3045299}}}
+  (version: 2018-12-18). Accessed 1 Jan. 2019.
+
+\bibitem{BIB:disk1}
+\text{Ennar}\
+  (\textcolor{blue}{\underline{\emph{https://math.stackexchange.com/users/122131/ennar}}}),
+  ``Rotate the parabola $y=x^2$ clockwise $45^\circ$.'' \emph{Mathematics Stack
+  Exchange}.
+\newblock
+  URL:\textcolor{blue}{\underline{\emph{https://math.stackexchange.com/q/2363158}}}
+  (version: 2017-07-18) Accessed 1 Jan. 2019.
+
+\end{thebibliography}
